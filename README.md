@@ -1,4 +1,4 @@
-# 💹 Crypto Trading Dashboard (Blue-Black Terminal)
+# 💹 Crypto Trading Dashboard 
 
 A **Streamlit-based crypto dashboard** that feels like a mini trading terminal — built for investors who want **maximum profit insights with minimum effort**.
 
