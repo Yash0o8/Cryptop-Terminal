@@ -14,7 +14,7 @@ from src.analytics import add_derived_columns
 from src.storage import load_recent
 
 
-st.set_page_config(page_title="Crypto Dashboard", page_icon="📈", layout="wide")
+st.set_page_config(page_title="Alpha Terminal", page_icon="⚡", layout="wide")
 
 
 COINBASE_CSS = """
@@ -282,8 +282,8 @@ with st.sidebar:
     show_history = st.checkbox("Show SQLite snapshots", value=False)
 
 
-st.title("Crypto Dashboard")
-st.caption("Clean, investor-ready analytics • 6 modules • live market data")
+st.title("⚡ Alpha Terminal")
+st.markdown("Clean, investor-ready analytics • 6 modules • live market data • Alpha-grade insights")
 
 c1, c2, c3 = st.columns([1.2, 1.2, 1.6])
 with c1:
