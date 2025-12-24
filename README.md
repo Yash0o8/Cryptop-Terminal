@@ -177,7 +177,7 @@ Investor wants coins where “big money is flowing” (high trading volume).
 - **Requests + HTML parsing** (for CMC scraper)
 - **SQLite** (optional snapshots)
 - **Excel export** (openpyxl / xlsxwriter)
-To view the database:
+-To view the database:
 Use DB Browser for SQLite
 Open crypto.db
 ---
