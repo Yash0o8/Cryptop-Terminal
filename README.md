@@ -223,3 +223,4 @@ Yash Pandey and Aryman Singh
 
 📧 Email: yashpandeypandey11@gmail.com
 
+Live App - https://cryptop-terminal-yash.streamlit.app/
