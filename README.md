@@ -219,12 +219,7 @@ openpyxl / xlsxwriter
 
 👤 Author
 
-Aryman Singh
+Yash Pandey and Aryman Singh
 
-📧 Email: arymansingh05@gmail.com
+📧 Email: yashpandeypandey11@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/aryman-singh-58b069222/
-
-💻 GitHub: https://github.com/aryman-singh-07
-
-🚀 Live App: https://alphaterminal-aryman-07.streamlit.app/
